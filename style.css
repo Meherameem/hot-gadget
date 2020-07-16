@@ -64,3 +64,63 @@ nav ul li a:hover {
     margin-right: 250px;
     color: gray;
   }
+  .icon-yellow{
+    background-color: yellow !important;
+    height: 10px !important;
+    width: 50px !important;
+    border: none !important;
+    border-radius: 5px !important;
+  }
+  .smartphone-section-style{
+    margin-top: 150px;
+  }
+  .card-image-style{
+    height: 45%;
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 80px;
+
+  }
+  .card-body-style{
+    text-align: center;
+  }
+  .card-title-style{
+    font-weight: bold;
+    font-size: large;
+    margin-top: 20px;
+  }
+  .card-text-style{
+    color: gray;
+    margin-top: 10px;
+    font-size: smaller;
+  }
+  .card-style{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    margin-top: 10px;
+    margin-right: 5px;
+  }
+ .catagories-style{
+   margin-top: 150px;
+ }
+ .content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.catagories-image-style{
+  height: 50%;
+  width: 50%;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.catagories-text-style{
+  text-align: center;
+}
+.footer{
+  text-align: center;
+  margin-top: 150px;
+  color: gray;
+  font-size: smaller;
+}
